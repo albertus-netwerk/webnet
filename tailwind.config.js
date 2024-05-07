@@ -9,6 +9,10 @@ export default {
 				"roboto-flex": ['"Roboto Flex"'],
 				consolas: ['"Consolas"'],
 			},
+			fontSize: {
+				'128': '8rem', // Equivalent to 128px
+				'60': '3.75rem', // Equivalent to 60px
+			}
 		},
 	},
 	plugins: [],
